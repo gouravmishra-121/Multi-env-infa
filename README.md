@@ -1,4 +1,3 @@
-![Terraform + Terragrunt](https://example.com/terraform-terragrunt.png)
 
 # **Terraform + Terragrunt Multi-Environment Project**
 
